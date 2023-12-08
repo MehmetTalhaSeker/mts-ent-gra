@@ -1,0 +1,1 @@
+entgo + gqlgen
